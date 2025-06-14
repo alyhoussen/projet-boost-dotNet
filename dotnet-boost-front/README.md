@@ -1,0 +1,3 @@
+SMARTSUB
+
+Personnal subscription manager app, allowing to register and take a look at your subscriptions...

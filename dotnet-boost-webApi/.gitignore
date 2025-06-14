@@ -1,0 +1,33 @@
+## === Build Folders ===
+bin/
+obj/
+out/
+
+## === User-Specific Files ===
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## === IDEs ===
+.vscode/
+.idea/
+
+## === OS Files ===
+.DS_Store
+Thumbs.db
+
+## === Logs ===
+*.log
+
+## === Backup/Temp Files ===
+*.tmp
+*.bak
+*.swp
+
+## === Rider-specific ===
+*.DotSettings.user
+
+## === Secret local settings ===
+# appsettings.*.json
+# appsettings.Development.json
